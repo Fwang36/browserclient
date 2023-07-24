@@ -1,0 +1,15 @@
+{
+  "name": "cindyrepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/browser": "^7.60.0",
+    "@sentry/node": "^7.60.0"
+  }
+}
